@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/raniarkal/meme-application.git/static/css/main.e3a2d0ad.css",
+    "main.js": "/raniarkal/meme-application.git/static/js/main.c38a7531.js",
+    "static/js/453.9a883ff3.chunk.js": "/raniarkal/meme-application.git/static/js/453.9a883ff3.chunk.js",
+    "index.html": "/raniarkal/meme-application.git/index.html",
+    "main.e3a2d0ad.css.map": "/raniarkal/meme-application.git/static/css/main.e3a2d0ad.css.map",
+    "main.c38a7531.js.map": "/raniarkal/meme-application.git/static/js/main.c38a7531.js.map",
+    "453.9a883ff3.chunk.js.map": "/raniarkal/meme-application.git/static/js/453.9a883ff3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3a2d0ad.css",
+    "static/js/main.c38a7531.js"
+  ]
+}
